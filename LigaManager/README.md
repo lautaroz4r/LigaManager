@@ -7,11 +7,10 @@
 Algoritmos y Estructuras de Datos - ISI - Ciclo 2026
 
 ### Integrantes
-* Integrante 1:
-* Integrante 2:
-* Integrante 3:
-* Integrante 4:
-* Integrante 5:
+* Integrante 1: Fernandez , Araceli
+* Integrante 2: Fleitas , Lautaro  
+* Integrante 3: Zarate , Lautaro
+
 
 ### Comisión : D
 
