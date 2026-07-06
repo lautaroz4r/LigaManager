@@ -1,0 +1,34 @@
+{
+    "equipos": [
+        {
+            "nombre": "boca",
+            "partidos_jugados": 1,
+            "ganados": 0,
+            "empatados": 1,
+            "perdidos": 0,
+            "goles_favor": 1,
+            "goles_contra": 1,
+            "diferencia_goles": 0,
+            "puntos": 1
+        },
+        {
+            "nombre": "river",
+            "partidos_jugados": 1,
+            "ganados": 0,
+            "empatados": 1,
+            "perdidos": 0,
+            "goles_favor": 1,
+            "goles_contra": 1,
+            "diferencia_goles": 0,
+            "puntos": 1
+        }
+    ],
+    "partidos": [
+        {
+            "local": "boca",
+            "visitante": "river",
+            "goles_local": 1,
+            "goles_visitante": 1
+        }
+    ]
+}
