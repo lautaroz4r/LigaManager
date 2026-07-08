@@ -37,11 +37,11 @@ El objetivo del sistema es facilitar la administración de un torneo, evitando c
 
 1. Descargar o clonar el repositorio.
 2. Abrir la carpeta del proyecto.
-3. Ejecutar el archivo principal con Python:
+3. Ejecutar el archivo principal con Python: (debera tener instalado phyton en su dispositivo.)
 python main.py
 
 ## Uso de Inteligencia Artificial
 
 Durante el desarrollo del proyecto se utilizó Inteligencia Artificial como herramienta de apoyo para generar ideas, organizar la estructura del sistema, revisar posibles validaciones y mejorar la claridad del código.
 
-Las respuestas obtenidas fueron analizadas y adaptadas por el grupo antes de incorporarlas al proyecto. Todos los integrantes deben comprender el funcionamiento general del sistema, las estructuras utilizadas, las validaciones implementadas y las decisiones tomadas durante el desarrollo.
+Las respuestas obtenidas fueron analizadas y adaptadas por el grupo antes de incorporarlas al proyecto. Todos los integrantes deben comprender el funcionamiento general del sistema, las estructuras utilizadas, las validaciones implementadas y las decisiones tomadas durante el desarrollo. Al inicio , utilizamos la ia mas que nada para poder estructurar el codigo. Luego de eso siguiendo los pdfs nos facilito el poder utilizar los whiles (observaran que hay dos , el principal del menu) y para registrar equipos. 
